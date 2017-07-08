@@ -1,4 +1,4 @@
-# Churn Analysis for a Music Player App
+# Churn Analysis for a Music Player App (On Going...)
 
 Here is a data science project about analyzing the churn rate of a music player app. There is always a reason for a user to stop using an app. To learn the reasons is important.
 
